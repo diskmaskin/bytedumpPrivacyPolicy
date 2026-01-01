@@ -4,7 +4,7 @@
 
 If you need assistance with ByteDump, please contact us:
 
-**Email:** md.rezaur.rahman@icloud.com
+**Email:** mrezaurrahman@icloud.com
 
 ## Common Questions
 
@@ -45,7 +45,7 @@ If you've found a bug, please email us with:
 - macOS version
 - ByteDump version
 
-**Contact:** md.rezaur.rahman@icloud.com
+**Contact:** mrezaurrahman@icloud.com
 
 ---
 
