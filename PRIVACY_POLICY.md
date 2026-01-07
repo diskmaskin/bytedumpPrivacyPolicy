@@ -58,7 +58,8 @@ We may update this privacy policy from time to time. Any changes will be posted 
 
 If you have any questions about this privacy policy, please contact:
 
-**Email:** reza.rahman.sv@gmail.com
+**Email:** 
+reza.rahman.sv@gmail.com
 ---
 
 **Summary:** ByteDump is a privacy-first application that collects NO data whatsoever.
