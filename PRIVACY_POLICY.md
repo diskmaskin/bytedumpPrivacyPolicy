@@ -58,9 +58,7 @@ We may update this privacy policy from time to time. Any changes will be posted 
 
 If you have any questions about this privacy policy, please contact:
 
-**Email:** your-email@example.com
-**GitHub:** https://github.com/yourusername/ByteDump
-
+**Email:** reza.rahman.sv@gmail.com
 ---
 
 **Summary:** ByteDump is a privacy-first application that collects NO data whatsoever.
